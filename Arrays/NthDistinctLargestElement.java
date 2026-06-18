@@ -43,34 +43,37 @@ public class NthDistinctLargestElement{
     // }
 
 
+    //TC: O(n log n) SC: O(n)
     public static void main(String args[]){
-        int[] arr = {1,2,3,4,5,6,7,7,8,8};
+        int[] arr = {1,1,2,2,3,3,3,4,4,5,5};
         int k = 3;
-
-        System.out.println(nthDistinctLargest(arr,k));
+        System.out.println(nthLargest(arr,k));
     }
-    public static int nthDistinctLargest(int[] arr, int k){
-        if(arr==null || arr.length==0){
-            throw new IllegalArgumentException("Array not valid");
+    public static int nthLargest(int[] arr, int k){
+        if(arr==null){
+            throw new IllegalArgumentException("array is null");
+        }
+        int n = arr.length;
+        if(n==0){
+            throw new IllegalArgumentException("array is empty");
         }
         TreeSet<Integer> set = new TreeSet<>();
-
-        for(int num:arr){
-            set.add(num);
-        }
+        for(int i=0; i<n; i++){
+            set.add(arr[i]);
+        }  
         if(k<=0 || k>set.size()){
             throw new IllegalArgumentException("value of k is not valid");
         }
-        Iterator<Integer> iterator = set.descendingIterator();
-        int count=0;
+        Iterator<Integer> it = set.descendingIterator();
+        int count = 0;
 
-        while(iterator.hasNext()){
-            int num = iterator.next();
+        while(it.hasNext()){
+            int num = it.next();
             count++;
             if(count==k){
                 return num;
             }
         }
-        throw new IllegalArgumentException("Unknown error occured");
+        throw new IllegalArgumentException("unknown exception");
     }
 }

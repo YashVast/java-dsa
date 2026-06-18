@@ -2,54 +2,27 @@
 import java.util.PriorityQueue;
 
 public class NthLargestElement{
-    //TC --> O(n log k)
-    //SC --> O(k)
-    // public static void main(String args[]){
-    //     int[] arr = {1,2,3,4,5,6,7,7,8,8};
-    //     int k = 3;
-    //     System.out.println(nthLargest(arr, k));
-    // }
-    // public static int nthLargest(int[] arr, int k){
-    //     if (arr == null) {
-    //         throw new IllegalArgumentException("Array cannot be null");
-    //     }
-
-    //     if (arr.length == 0) {
-    //         throw new IllegalArgumentException("Array cannot be empty");
-    //     }
-
-    //     if (k <= 0 || k > arr.length) {
-    //         throw new IllegalArgumentException(
-    //             "k must be between 1 and " + arr.length
-    //         );
-    //     }
-    //     PriorityQueue<Integer> queue = new PriorityQueue<>();
-
-    //     for(int num: arr){
-    //         queue.offer(num);
-
-    //         if(queue.size()>k){
-    //             queue.poll();
-    //         }
-    //     }
-    //     return queue.peek();
-    // }
-
-
+    
+    //TC: O(n log k) SC: O(k)
     public static void main(String args[]){
-        int[] arr = {1,2,3,4,5,6,7,7,8,8};
+        int[] arr = {1,2,3,4,5,6,7,8,8};
         int k = 3;
-
-        System.out.println(nthLargest(arr,k));
+        System.out.println(nthLargestElement(arr,k));
     }
-    public static int nthLargest(int[] arr, int k){
-        if(arr.length==0 || arr.length<k || k<=0){
-            throw new IllegalArgumentException("Array or given value of k is not valid");
+    public static int nthLargestElement(int[] arr, int k){
+        if(arr == null){
+            throw new IllegalArgumentException("Array is null");
+        }
+        int n = arr.length;
+        if(n==0){
+            throw new IllegalArgumentException("Given Array empty");
+        }
+        if(k<=0 || k>n){
+            throw new IllegalArgumentException("value of k is not valid");
         }
         PriorityQueue<Integer> queue = new PriorityQueue<>();
-
-        for(int num:arr){
-            queue.offer(num);
+        for(int i=0; i<n; i++){
+            queue.offer(arr[i]);
             if(queue.size()>k){
                 queue.poll();
             }
