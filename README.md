@@ -1,1 +1,16 @@
 # java-dsa
+
+ARRAY:
+
+1.LargestElement
+2.SecondLargestElement
+3.NthLargestElement
+4.NthDistinctLargestElement
+5.RemoveDuplicatesFromSortedArray
+6.RemoveDuplicatesUnsortedArray
+7.LeftRotateOnePlace
+8.LeftRotateDPlace
+9.MoveAllZeros
+10.MissingNumber
+11.MaximumConsecutiveOnes
+12.NumberAppearOnce
