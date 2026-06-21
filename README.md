@@ -2,6 +2,8 @@
 
 ARRAY:
 
+#.CheckSorted.#
+
 1.LargestElement
 2.SecondLargestElement
 3.NthLargestElement
@@ -14,3 +16,6 @@ ARRAY:
 10.MissingNumber
 11.MaximumConsecutiveOnes
 12.NumberAppearOnce
+13.LongestSubArraySumPositive
+14.LongestSubArraySumPositiveAndNegative
+15.TwoSum
