@@ -19,3 +19,5 @@ ARRAY:
 13.LongestSubArraySumPositive
 14.LongestSubArraySumPositiveAndNegative
 15.TwoSum
+16.SortArrayZerosOnesTwos
+17.MajorityElement_I
