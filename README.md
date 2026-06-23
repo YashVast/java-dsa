@@ -25,3 +25,4 @@ ARRAY:
 19. KadaneAlgorithmPrintArray
 20. RearrangeElementsBySign
 21. RearrangeElementsBySign_II
+22. NextPermutation                           : LC --> 31

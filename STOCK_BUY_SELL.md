@@ -1,4 +1,4 @@
-1. Stock_Buy_Sell_I LC --> 121 (Best Time to Buy and Sell Stock)
+1. Stock_Buy_Sell_I : LC --> 121 (Best Time to Buy and Sell Stock)
 2. LC --> 122 (Best Time to Buy and Sell Stock II)
 3. LC --> 123 (Best Time to Buy and Sell Stock III)
 4. LC --> 188 (Best Time to Buy and Sell Stock IV)
