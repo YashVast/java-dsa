@@ -4,25 +4,26 @@ ARRAY:
 
 #.CheckSorted.#
 
-1. LargestElement
-2. SecondLargestElement
-3. NthLargestElement
-4. NthDistinctLargestElement
-5. RemoveDuplicatesFromSortedArray
-6. RemoveDuplicatesUnsortedArray
-7. LeftRotateOnePlace
-8. LeftRotateDPlace
-9. MoveAllZeros
-10. MissingNumber
-11. MaximumConsecutiveOnes
-12. NumberAppearOnce
-13. LongestSubArraySumPositive
-14. LongestSubArraySumPositiveAndNegative
-15. TwoSum
-16. SortArrayZerosOnesTwos
-17. MajorityElement_I
-18. KadaneAlgorithm
-19. KadaneAlgorithmPrintArray
-20. RearrangeElementsBySign
-21. RearrangeElementsBySign_II
-22. NextPermutation                           : LC --> 31
+1.  LargestElement                             : LC -->
+2.  SecondLargestElement                       : LC -->
+3.  NthLargestElement                          : LC -->
+4.  NthDistinctLargestElement                  : LC -->
+5.  RemoveDuplicatesFromSortedArray            : LC -->
+6.  RemoveDuplicatesUnsortedArray              : LC -->
+7.  LeftRotateOnePlace                         : LC -->
+8.  LeftRotateDPlace                           : LC -->
+9.  MoveAllZeros                               : LC -->
+10. MissingNumber                              : LC -->
+11. MaximumConsecutiveOnes                     : LC -->
+12. NumberAppearOnce                           : LC -->
+13. LongestSubArraySumPositive                 : LC -->
+14. LongestSubArraySumPositiveAndNegative      : LC -->
+15. TwoSum                                     : LC -->
+16. SortArrayZerosOnesTwos                     : LC -->
+17. MajorityElement_I                          : LC -->
+18. KadaneAlgorithm                            : LC -->
+19. KadaneAlgorithmPrintArray                  : LC -->
+20. RearrangeElementsBySign                    : LC -->
+21. RearrangeElementsBySign_II                 : LC -->
+22. NextPermutation                            : LC --> 31
+23. LeadersInArray                             : LC --> N/A
