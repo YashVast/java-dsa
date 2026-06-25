@@ -2,8 +2,7 @@
 
 ARRAY:
 
-#.CheckSorted.#
-
+0.  CheckSorted                                : LC -->
 1.  LargestElement                             : LC -->
 2.  SecondLargestElement                       : LC -->
 3.  NthLargestElement                          : LC -->
@@ -27,3 +26,4 @@ ARRAY:
 21. RearrangeElementsBySign_II                 : LC -->
 22. NextPermutation                            : LC --> 31
 23. LeadersInArray                             : LC --> N/A
+24. LongestConsecutiveSequence                 : LC --> 128
