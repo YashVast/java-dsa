@@ -66,7 +66,7 @@ public class MajorityElement_II{
     // }
 
 
-    //OPTIMAL --> TC: O(n)+O(n) SC: O(n)
+    //OPTIMAL --> TC: O(n)+O(n) SC: O(1)
     public static void main(String args[]){
         int[] arr = {1,1,1,3,3,2,2,2};
         List<Integer> list = majorityElement(arr);
