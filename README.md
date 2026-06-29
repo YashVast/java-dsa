@@ -29,4 +29,6 @@ ARRAY:
 24. LongestConsecutiveSequence : LC --> 128
 25. SetMatrixZeros : LC --> 73
 26. RotateImage : LC --> 48
-27. SpiralMatrix : LC -->
+27. SpiralMatrix : LC --> 54
+28. NumberOfSubArraysWithSumK : LC --> 560
+29. MajorityElement_II : LC --> 
