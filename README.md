@@ -32,3 +32,5 @@ ARRAY:
 27. SpiralMatrix : LC --> 54
 28. NumberOfSubArraysWithSumK : LC --> 560
 29. MajorityElement_II : LC --> 
+30. ThreeSum : LC --> 15
+40. FourSum : LC -->
