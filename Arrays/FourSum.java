@@ -88,7 +88,7 @@ public class FourSum {
     //     return list;
     // }
 
-    //OPTIMAL --> TC: O() SC: O()
+    //OPTIMAL --> TC: O(n2)*O(n) SC: O(no.quads)
     public static void main(String args[]){
         int[] arr = {1,1,1,2,2,2,3,3,3,4,4,4,5,5};
         int target = 8;
