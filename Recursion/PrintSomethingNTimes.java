@@ -1,14 +1,15 @@
 public class PrintSomethingNTimes {
     public static void main(String args[]){
-        printNTimes(0);
+        int n = 5;
+        printNTimes(1,n);
     }
-    public static void printNTimes(int count){
-        if(count == 5){
+    public static void printNTimes(int i, int n){
+        if(i>n){
             return;
         }
         else {
-            System.out.println(count);
-            printNTimes(count+1);
+            System.out.println(i);
+            printNTimes(i+1,n);
         }
     }
 }
