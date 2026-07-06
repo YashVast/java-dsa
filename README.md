@@ -40,3 +40,4 @@ ARRAY:
 35. MergeSortedArrays : LC --> 88
 36. RepeatingAndMissingNumber : LC -->
 37. CountInversions : LC -->
+38. ReversePairs : LC -->
