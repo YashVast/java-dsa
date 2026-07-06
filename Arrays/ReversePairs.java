@@ -84,7 +84,7 @@ public class ReversePairs{
     // }
 
 
-    //OPTIMAL --> TC: O(n log n) SC: O(n)
+    //OPTIMAL --> TC: O(log n) + O(2n) SC: O(n)
     public static void main(String args[]){
         int[] arr = {40,25,19,12,9,6,2};
         System.out.println(reversePairs(arr));
