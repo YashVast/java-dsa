@@ -40,5 +40,5 @@ ARRAY:
 35. MergeSortedArrays : LC --> 88
 36. RepeatingAndMissingNumber : LC -->
 37. CountInversions : LC -->
-38. ReversePairs : LC -->
+38. ReversePairs : LC --> 493
 39. MaximumProductSubArray : LC --> 152
