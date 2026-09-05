@@ -42,3 +42,4 @@ ARRAY:
 37. CountInversions : LC -->
 38. ReversePairs : LC --> 493
 39. MaximumProductSubArray : LC --> 152
+40. RightRotateArrayByKPlaces : LC --> 189
