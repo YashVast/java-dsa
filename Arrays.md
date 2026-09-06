@@ -18,31 +18,32 @@ ARRAY:
 13. FindMissingElements : LC --> 3731
 14. MaximumConsecutiveOnes : LC --> 485
 15. MaximumConsecutiveOnes_II : LC --> 487 (Premium)
-16. NumberAppearOnce : LC -->
-17. LongestSubArraySumPositive : LC -->
-18. LongestSubArraySumPositiveAndNegative : LC -->
-19. TwoSum : LC -->
-20. SortArrayZerosOnesTwos : LC -->
-21. MajorityElement_I : LC -->
-22. KadaneAlgorithm : LC -->
-23. KadaneAlgorithmPrintArray : LC -->
-24. RearrangeElementsBySign : LC -->
-25. RearrangeElementsBySign_II : LC -->
-26. NextPermutation : LC --> 31
-27. LeadersInArray : LC --> N/A
-28. LongestConsecutiveSequence : LC --> 128
-29. SetMatrixZeros : LC --> 73
-30. RotateImage : LC --> 48
-31. SpiralMatrix : LC --> 54
-32. NumberOfSubArraysWithSumK : LC --> 560
-33. MajorityElement_II : LC -->
-34. ThreeSum : LC --> 15
-35. FourSum : LC --> 18
-36. LargestSubArrayWithSum0 : LC -->
-37. CountSubArraysWithXORAsK : LC -->
-38. MergeOverlapingIntervals : LC --> 56
-39. MergeSortedArrays : LC --> 88
-40. RepeatingAndMissingNumber : LC -->
-41. CountInversions : LC -->
-42. ReversePairs : LC --> 493
-43. MaximumProductSubArray : LC --> 152
+16. MaximumConsecutiveOnes_III : LC --> 1004
+17. NumberAppearOnce : LC -->
+18. LongestSubArraySumPositive : LC -->
+19. LongestSubArraySumPositiveAndNegative : LC -->
+20. TwoSum : LC -->
+21. SortArrayZerosOnesTwos : LC -->
+22. MajorityElement_I : LC -->
+23. KadaneAlgorithm : LC -->
+24. KadaneAlgorithmPrintArray : LC -->
+25. RearrangeElementsBySign : LC -->
+26. RearrangeElementsBySign_II : LC -->
+27. NextPermutation : LC --> 31
+28. LeadersInArray : LC --> N/A
+29. LongestConsecutiveSequence : LC --> 128
+30. SetMatrixZeros : LC --> 73
+31. RotateImage : LC --> 48
+32. SpiralMatrix : LC --> 54
+33. NumberOfSubArraysWithSumK : LC --> 560
+34. MajorityElement_II : LC -->
+35. ThreeSum : LC --> 15
+36. FourSum : LC --> 18
+37. LargestSubArrayWithSum0 : LC -->
+38. CountSubArraysWithXORAsK : LC -->
+39. MergeOverlapingIntervals : LC --> 56
+40. MergeSortedArrays : LC --> 88
+41. RepeatingAndMissingNumber : LC -->
+42. CountInversions : LC -->
+43. ReversePairs : LC --> 493
+44. MaximumProductSubArray : LC --> 152
