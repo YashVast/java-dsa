@@ -17,8 +17,8 @@ ARRAY:
 12. KthMissingPositiveNumber : LC --> 1539
 13. FindMissingElements : LC --> 3731
 14. MaximumConsecutiveOnes : LC --> 485
-15. MaximumConsecutiveOnes_II : LC --> 487 (Premium)
-16. MaximumConsecutiveOnes_III : LC --> 1004
+15. MaximumConsecutiveOnes_II : LC --> 487 (Premium) --> Go to Sliding Window Folder
+16. MaximumConsecutiveOnes_III : LC --> 1004 --> Go to Sliding Window Folder
 17. NumberAppearOnce : LC -->
 18. LongestSubArraySumPositive : LC -->
 19. LongestSubArraySumPositiveAndNegative : LC -->
