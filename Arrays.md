@@ -11,35 +11,37 @@ ARRAY:
 6.  RemoveDuplicatesUnsortedArray : LC -->
 7.  LeftRotateOnePlace : LC -->
 8.  LeftRotateDPlace : LC -->
-9.  MoveAllZeros : LC --> 283
-10. MissingNumber : LC -->
-11. MaximumConsecutiveOnes : LC -->
-12. NumberAppearOnce : LC -->
-13. LongestSubArraySumPositive : LC -->
-14. LongestSubArraySumPositiveAndNegative : LC -->
-15. TwoSum : LC -->
-16. SortArrayZerosOnesTwos : LC -->
-17. MajorityElement_I : LC -->
-18. KadaneAlgorithm : LC -->
-19. KadaneAlgorithmPrintArray : LC -->
-20. RearrangeElementsBySign : LC -->
-21. RearrangeElementsBySign_II : LC -->
-22. NextPermutation : LC --> 31
-23. LeadersInArray : LC --> N/A
-24. LongestConsecutiveSequence : LC --> 128
-25. SetMatrixZeros : LC --> 73
-26. RotateImage : LC --> 48
-27. SpiralMatrix : LC --> 54
-28. NumberOfSubArraysWithSumK : LC --> 560
-29. MajorityElement_II : LC -->
-30. ThreeSum : LC --> 15
-31. FourSum : LC --> 18
-32. LargestSubArrayWithSum0 : LC -->
-33. CountSubArraysWithXORAsK : LC -->
-34. MergeOverlapingIntervals : LC --> 56
-35. MergeSortedArrays : LC --> 88
-36. RepeatingAndMissingNumber : LC -->
-37. CountInversions : LC -->
-38. ReversePairs : LC --> 493
-39. MaximumProductSubArray : LC --> 152
-40. RightRotateArrayByKPlaces : LC --> 189
+9.  RightRotateArrayByKPlaces : LC --> 189
+10. MoveAllZeros : LC --> 283
+11. MissingNumber : LC --> 268
+12. KthMissingPositiveNumber : LC --> 1539
+13. FindMissingElements : LC --> 3731
+14. MaximumConsecutiveOnes : LC -->
+15. NumberAppearOnce : LC -->
+16. LongestSubArraySumPositive : LC -->
+17. LongestSubArraySumPositiveAndNegative : LC -->
+18. TwoSum : LC -->
+19. SortArrayZerosOnesTwos : LC -->
+20. MajorityElement_I : LC -->
+21. KadaneAlgorithm : LC -->
+22. KadaneAlgorithmPrintArray : LC -->
+23. RearrangeElementsBySign : LC -->
+24. RearrangeElementsBySign_II : LC -->
+25. NextPermutation : LC --> 31
+26. LeadersInArray : LC --> N/A
+27. LongestConsecutiveSequence : LC --> 128
+28. SetMatrixZeros : LC --> 73
+29. RotateImage : LC --> 48
+30. SpiralMatrix : LC --> 54
+31. NumberOfSubArraysWithSumK : LC --> 560
+32. MajorityElement_II : LC -->
+33. ThreeSum : LC --> 15
+34. FourSum : LC --> 18
+35. LargestSubArrayWithSum0 : LC -->
+36. CountSubArraysWithXORAsK : LC -->
+37. MergeOverlapingIntervals : LC --> 56
+38. MergeSortedArrays : LC --> 88
+39. RepeatingAndMissingNumber : LC -->
+40. CountInversions : LC -->
+41. ReversePairs : LC --> 493
+42. MaximumProductSubArray : LC --> 152
