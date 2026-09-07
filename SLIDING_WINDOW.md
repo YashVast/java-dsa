@@ -3,3 +3,5 @@
 3. MaximumPointsObtainFromCards : LC --> 1423
 4. LongestSubstringWithoutRepeatingCharacter : LC --> 3
 5. FruitIntoBaskets : LC --> 904
+6. LongestSubstringWithAtMostKDistinctCharacters : LC --> 340
+7. NumberOfSubstringsContainingAllThreeCharacters : LC -->
