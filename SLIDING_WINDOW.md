@@ -4,4 +4,7 @@
 4. LongestSubstringWithoutRepeatingCharacter : LC --> 3
 5. FruitIntoBaskets : LC --> 904
 6. LongestSubstringWithAtMostKDistinctCharacters : LC --> 340
-7. NumberOfSubstringsContainingAllThreeCharacters : LC -->
+7. NumberOfSubstringsContainingAllThreeCharacters : LC --> 1358
+8. LongestRepeatingCharacterReplacement : LC --> 424
+9. BinarySubarraysWithSum : LC --> 930
+10. CountNumberOfNiceSubarrays : LC --> 1248
