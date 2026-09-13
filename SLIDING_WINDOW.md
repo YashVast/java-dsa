@@ -10,3 +10,4 @@
 10. CountNumberOfNiceSubarrays : LC --> 1248
 11. SubarraysWithKDifferentIntegers : LC --> 992
 12. MinimumWindowSubstring : LC --> 76
+13. ContainsDuplicate_II : LC --> 219

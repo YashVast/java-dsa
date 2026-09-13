@@ -47,3 +47,4 @@ ARRAY:
 42. CountInversions : LC -->
 43. ReversePairs : LC --> 493
 44. MaximumProductSubArray : LC --> 152
+45. ContainsDuplicate_I : LC --> 217
