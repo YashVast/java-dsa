@@ -8,3 +8,5 @@
 8. LongestRepeatingCharacterReplacement : LC --> 424
 9. BinarySubarraysWithSum : LC --> 930
 10. CountNumberOfNiceSubarrays : LC --> 1248
+11. SubarraysWithKDifferentIntegers : LC --> 992
+12. MinimumWindowSubstring : LC --> 76
