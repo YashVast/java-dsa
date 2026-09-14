@@ -22,12 +22,12 @@ ARRAY:
 17. NumberAppearOnce : LC -->
 18. LongestSubArraySumPositive : LC -->
 19. LongestSubArraySumPositiveAndNegative : LC -->
-20. TwoSum : LC -->
-21. SortArrayZerosOnesTwos : LC -->
-22. MajorityElement_I : LC -->
+20. TwoSum : LC --> 1
+21. SortArrayZerosOnesTwos : LC --> 75
+22. MajorityElement_I : LC --> 169
 23. KadaneAlgorithm : LC -->
 24. KadaneAlgorithmPrintArray : LC -->
-25. RearrangeElementsBySign : LC -->
+25. RearrangeElementsBySign : LC --> 2149
 26. RearrangeElementsBySign_II : LC -->
 27. NextPermutation : LC --> 31
 28. LeadersInArray : LC --> N/A
@@ -36,7 +36,7 @@ ARRAY:
 31. RotateImage : LC --> 48
 32. SpiralMatrix : LC --> 54
 33. NumberOfSubArraysWithSumK : LC --> 560
-34. MajorityElement_II : LC -->
+34. MajorityElement_II : LC --> 229
 35. ThreeSum : LC --> 15
 36. FourSum : LC --> 18
 37. LargestSubArrayWithSum0 : LC -->
@@ -48,3 +48,4 @@ ARRAY:
 43. ReversePairs : LC --> 493
 44. MaximumProductSubArray : LC --> 152
 45. ContainsDuplicate_I : LC --> 217
+46. ContainsDuplicate_II : LC --> 219 --> Go to Sliding Window Folder
