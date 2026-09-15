@@ -11,3 +11,4 @@
 11. SubarraysWithKDifferentIntegers : LC --> 992
 12. MinimumWindowSubstring : LC --> 76
 13. ContainsDuplicate_II : LC --> 219
+14. MinimumSizeSubarraySum : LC --> 209
