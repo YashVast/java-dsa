@@ -12,3 +12,4 @@
 12. MinimumWindowSubstring : LC --> 76
 13. ContainsDuplicate_II : LC --> 219
 14. MinimumSizeSubarraySum : LC --> 209
+15. MaximumAverageSubarray_I : LC --> 643
