@@ -14,3 +14,4 @@
 14. MinimumSizeSubarraySum : LC --> 209
 15. MaximumAverageSubarray_I : LC --> 643
 16. FindAllAnagramsInString : LC --> 438
+17. PermutationInString : LC --> 567
