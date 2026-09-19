@@ -9,44 +9,45 @@ ARRAY:
 4.  NthDistinctLargestElement : LC -->
 5.  ThridMaxNumber : LC --> 414
 6.  RemoveDuplicatesFromSortedArray : LC --> 26
-7.  RemoveDuplicatesUnsortedArray : LC -->
-8.  LeftRotateOnePlace : LC -->
-9.  LeftRotateDPlace : LC -->
-10. RightRotateArrayByKPlaces : LC --> 189
-11. MoveAllZeros : LC --> 283
-12. MissingNumber : LC --> 268
-13. KthMissingPositiveNumber : LC --> 1539
-14. FindMissingElements : LC --> 3731
-15. MaximumConsecutiveOnes : LC --> 485
-16. MaximumConsecutiveOnes_II : LC --> 487 (Premium) --> Go to Sliding Window Folder
-17. MaximumConsecutiveOnes_III : LC --> 1004 --> Go to Sliding Window Folder
-18. NumberAppearOnce : LC -->
-19. LongestSubArraySumPositive : LC -->
-20. LongestSubArraySumPositiveAndNegative : LC -->
-21. TwoSum : LC --> 1
-22. SortArrayZerosOnesTwos : LC --> 75
-23. MajorityElement_I : LC --> 169
-24. KadaneAlgorithm : LC -->
-25. KadaneAlgorithmPrintArray : LC -->
-26. RearrangeElementsBySign : LC --> 2149
-27. RearrangeElementsBySign_II : LC -->
-28. NextPermutation : LC --> 31
-29. LeadersInArray : LC --> N/A
-30. LongestConsecutiveSequence : LC --> 128
-31. SetMatrixZeros : LC --> 73
-32. RotateImage : LC --> 48
-33. SpiralMatrix : LC --> 54
-34. NumberOfSubArraysWithSumK : LC --> 560
-35. MajorityElement_II : LC --> 229
-36. ThreeSum : LC --> 15
-37. FourSum : LC --> 18
-38. LargestSubArrayWithSum0 : LC -->
-39. CountSubArraysWithXORAsK : LC -->
-40. MergeOverlapingIntervals : LC --> 56
-41. MergeSortedArrays : LC --> 88
-42. RepeatingAndMissingNumber : LC -->
-43. CountInversions : LC -->
-44. ReversePairs : LC --> 493
-45. MaximumProductSubArray : LC --> 152
-46. ContainsDuplicate_I : LC --> 217
-47. ContainsDuplicate_II : LC --> 219 --> Go to Sliding Window Folder
+7.  RemoveDuplicatesFromSortedArray_II : LC --> 80
+8.  RemoveDuplicatesUnsortedArray : LC -->
+9.  LeftRotateOnePlace : LC -->
+10. LeftRotateDPlace : LC -->
+11. RightRotateArrayByKPlaces : LC --> 189
+12. MoveAllZeros : LC --> 283
+13. MissingNumber : LC --> 268
+14. KthMissingPositiveNumber : LC --> 1539
+15. FindMissingElements : LC --> 3731
+16. MaximumConsecutiveOnes : LC --> 485
+17. MaximumConsecutiveOnes_II : LC --> 487 (Premium) --> Go to Sliding Window Folder
+18. MaximumConsecutiveOnes_III : LC --> 1004 --> Go to Sliding Window Folder
+19. NumberAppearOnce : LC -->
+20. LongestSubArraySumPositive : LC -->
+21. LongestSubArraySumPositiveAndNegative : LC -->
+22. TwoSum : LC --> 1
+23. SortArrayZerosOnesTwos : LC --> 75
+24. MajorityElement_I : LC --> 169
+25. KadaneAlgorithm : LC -->
+26. KadaneAlgorithmPrintArray : LC -->
+27. RearrangeElementsBySign : LC --> 2149
+28. RearrangeElementsBySign_II : LC -->
+29. NextPermutation : LC --> 31
+30. LeadersInArray : LC --> N/A
+31. LongestConsecutiveSequence : LC --> 128
+32. SetMatrixZeros : LC --> 73
+33. RotateImage : LC --> 48
+34. SpiralMatrix : LC --> 54
+35. NumberOfSubArraysWithSumK : LC --> 560
+36. MajorityElement_II : LC --> 229
+37. ThreeSum : LC --> 15
+38. FourSum : LC --> 18
+39. LargestSubArrayWithSum0 : LC -->
+40. CountSubArraysWithXORAsK : LC -->
+41. MergeOverlapingIntervals : LC --> 56
+42. MergeSortedArrays : LC --> 88
+43. RepeatingAndMissingNumber : LC -->
+44. CountInversions : LC -->
+45. ReversePairs : LC --> 493
+46. MaximumProductSubArray : LC --> 152
+47. ContainsDuplicate_I : LC --> 217
+48. ContainsDuplicate_II : LC --> 219 --> Go to Sliding Window Folder
