@@ -10,3 +10,4 @@
 10. MinimumInRotatedSortedArray : LC --> 153
 11. FindNumberOfTimesArrayRotated_I
 12. FindNumberOfTimesArrayRotated_II
+13. SingleElementInSortedArray : LC --> 540
