@@ -11,3 +11,4 @@
 11. FindNumberOfTimesArrayRotated_I
 12. FindNumberOfTimesArrayRotated_II
 13. SingleElementInSortedArray : LC --> 540
+14. FindPeakElement : LC --> 162
