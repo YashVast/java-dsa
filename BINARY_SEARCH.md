@@ -12,3 +12,7 @@
 12. FindNumberOfTimesArrayRotated_II
 13. SingleElementInSortedArray : LC --> 540
 14. FindPeakElement : LC --> 162
+    --> Sqrt : LC --> 69
+15. NthRootOfM
+16. KokoEatingBananas : LC --> 875
+17. MinimumNumberOfDaysToMakeMBouquets : LC --> 1482
