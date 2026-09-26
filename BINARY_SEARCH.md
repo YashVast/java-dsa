@@ -17,3 +17,4 @@
 17. KokoEatingBananas : LC --> 875
 18. MinimumNumberOfDaysToMakeMBouquets : LC --> 1482
 19. SmallestDivisorGivenThreshold : LC --> 1283
+20. LeastCapacityToShipPackagesWithinDDays : LC --> 1011
