@@ -19,3 +19,7 @@
 19. SmallestDivisorGivenThreshold : LC --> 1283
 20. LeastCapacityToShipPackagesWithinDDays : LC --> 1011
 21. FindKthMissingNumber : LC --> 1539
+22. AggresiveCows/MagneticForceBetweenTwoBalls : LC --> 1552
+23. BookAllocation/MaximumCandlesAlloatedToKChildren : LC --> 2226
+24. PaintersPartition/SplitArrayLargestSum : LC --> 410
+25. 
