@@ -24,3 +24,4 @@
 24. PaintersPartition/SplitArrayLargestSum : LC --> 410
 25. MinimiseMaxDistanceBetweenGasStations : LC --> 774(Premium)
 26. MedianOfTwoSortedArraysOfDifferentSizes : LC --> 4
+27. KthElementOfTwoSortedArrays 
