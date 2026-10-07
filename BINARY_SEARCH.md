@@ -27,3 +27,4 @@
 27. KthElementOfTwoSortedArrays : LC --> N/A
 28. FindRowWithMaximumOnes : LC --> N/A --> Sorted Array
 29. FindRowWithMaximumOnes : LC --> 2643 --> UnSorted Array(return rowCount,maxOnes)
+30. SearchIn2DMatrix_I : LC --> 74
