@@ -25,6 +25,7 @@
 25. MinimiseMaxDistanceBetweenGasStations : LC --> 774(Premium)
 26. MedianOfTwoSortedArraysOfDifferentSizes : LC --> 4
 27. KthElementOfTwoSortedArrays : LC --> N/A
-28. FindRowWithMaximumOnes : LC --> N/A --> Sorted Array
-29. FindRowWithMaximumOnes : LC --> 2643 --> UnSorted Array(return rowCount,maxOnes)
-30. SearchIn2DMatrix_I : LC --> 74
+28. KthSmallestProduct : LC --> 2040
+29. FindRowWithMaximumOnes : LC --> N/A --> Sorted Array
+30. FindRowWithMaximumOnes : LC --> 2643 --> UnSorted Array(return rowCount,maxOnes)
+31. SearchIn2DMatrix_I : LC --> 74
