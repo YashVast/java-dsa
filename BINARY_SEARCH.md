@@ -29,3 +29,4 @@
 29. FindRowWithMaximumOnes : LC --> N/A --> Sorted Array
 30. FindRowWithMaximumOnes : LC --> 2643 --> UnSorted Array(return rowCount,maxOnes)
 31. SearchIn2DMatrix_I : LC --> 74
+32. SearchIn2DMatrix_II : LC --> 240
