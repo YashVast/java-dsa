@@ -31,3 +31,4 @@
 31. SearchIn2DMatrix_I : LC --> 74
 32. SearchIn2DMatrix_II : LC --> 240
 33. FindPeakElement_II : LC --> 1901
+34. MedianOfRowWiseSortedMatrix : LC --> 2387
