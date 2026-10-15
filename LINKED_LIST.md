@@ -7,3 +7,6 @@
 7. DeletionOfTail
 8. DeleteByPosition
 9. DeleteByElement
+10. InsertionOfHead
+11. InsertionAtTail
+12. InsertionByPosition
