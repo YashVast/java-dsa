@@ -10,3 +10,4 @@
 10. InsertionOfHead
 11. InsertionAtTail
 12. InsertionByPosition
+13. InsertBeforeValue
