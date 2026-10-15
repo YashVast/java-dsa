@@ -5,3 +5,5 @@
 5. SearchElement
 6. DeletionOfHead
 7. DeletionOfTail
+8. DeleteByPosition
+9. DeleteByElement
