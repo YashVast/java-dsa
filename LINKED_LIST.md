@@ -11,3 +11,12 @@
 11. InsertionAtTail
 12. InsertionByPosition
 13. InsertBeforeValue
+14. ArrayToDoublyLL
+15. DeletionOfHeadDoublyLL
+16. DeletionOfTailDoublyLL
+17. DeleteByPositionDoublyLL
+18. DeleteByElementDoublyLL
+19. InsertionOfHeadDoublyLL
+20. InsertionAtTailDoublyLL
+21. InsertionByPositionDoublyLL
+22. InsertBeforeValueDoublyLL
