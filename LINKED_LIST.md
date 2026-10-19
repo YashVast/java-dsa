@@ -20,3 +20,4 @@
 20. InsertionAtTailDoublyLL
 21. InsertionByPositionDoublyLL
 22. InsertBeforeValueDoublyLL
+23. ReverseDoublyLL
