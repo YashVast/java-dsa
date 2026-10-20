@@ -21,3 +21,7 @@
 21. InsertionByPositionDoublyLL
 22. InsertBeforeValueDoublyLL
 23. ReverseDoublyLL
+24. ReverseLinkedList : LC --> 206
+25. ReverseLinkedList_II : LC --> 92
+26. Add2Numbers : LC --> 2
+27. OddEvenLinkedList : LC --> 328

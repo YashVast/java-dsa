@@ -52,4 +52,31 @@ public class ReverseDoublyLL {
     //         head = head.next;
     //     }
     // }
+
+    // OPTIMAL -->
+    // TC: O(n)
+    // SC: O(1)
+    public static Node newHead(Node head){
+        if(head == null || head.next == null){
+            return head;
+        }
+        Node prev = null;
+        Node current = head;
+        while(current != null){
+            prev = current.back;
+            current.back = current.next;
+            current.next = prev;
+            current = current.back;
+        }
+        return prev.back;
+    }
+    public static void main(String[] args){
+        int[] arr = {2,4,5,7,9};
+        Node head = converArrayToDoublyLL(arr);
+        Node newHead = newHead(head);
+        while(newHead != null){
+            System.out.print(newHead.data+" ");
+            newHead = newHead.next;
+        }
+    }
 }
