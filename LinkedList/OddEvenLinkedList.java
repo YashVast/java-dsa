@@ -1,5 +1,3 @@
-import java.util.ArrayList;
-import java.util.List;
 
 class Node{
     int data;
@@ -13,9 +11,6 @@ class Node{
         this.next = null;
     }
 }
-// BRUTE FORCE -->
-// TC: O()
-// SC: O()
 public class OddEvenLinkedList {
     public static Node convertArrayToLL(int[] arr){
         if(arr == null || arr.length == 0){
