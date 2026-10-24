@@ -46,16 +46,35 @@ public class ReverseLinkedList {
     //     }
     //     return head;
     // }
+    // OPTIMAL -->
+    // TC: O(n)
+    // SC: O(1)
+    // public static Node reverseLL(Node head){
+    //     if(head == null || head.next == null){
+    //         return head;
+    //     }
+    //     Node prev = null;
+    //     Node current = head;
+    //     while(current != null){
+    //         Node nextNode = current.next;
+    //         current.next = prev;
+    //         prev = current;
+    //         current = nextNode;
+    //     }
+    //     return prev;
+    // }
+    // OPTIMAL -->
+    // TC: O(n)
+    // SC: O(n) Recursive Stack Space
     public static Node reverseLL(Node head){
-        Node prev = null;
-        Node current = head;
-        while(current != null){
-            Node nextNode = current.next;
-            current.next = prev;
-            prev = current;
-            current = nextNode;
+        if(head == null || head.next == null){
+            return head;
         }
-        return prev;
+        Node newHead = reverseLL(head.next);
+        Node front = head.next;
+        front.next = head;
+        head.next = null;
+        return newHead;
     }
     public static void main(String[] args){
         int[] arr = {1,2,3,4,5};
