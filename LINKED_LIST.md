@@ -27,3 +27,6 @@
 27. OddEvenLinkedList : LC --> 328
 28. SortArrayZerosOnesTwos
 29. RemoveNthNodeFromEnd
+30. MiddleOfLinkedList : LC --> 876
+31. PalindromeLinkedList : LC --> 234
+32. 
