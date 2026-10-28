@@ -29,4 +29,5 @@
 29. RemoveNthNodeFromEnd
 30. MiddleOfLinkedList : LC --> 876
 31. PalindromeLinkedList : LC --> 234
-32. 
+32. Add1ToLinkedList : LC --> 
+33. DubleNumberRepresentedAsLinkedList : LC --> 2816
